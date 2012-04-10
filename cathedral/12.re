@@ -1,0 +1,4 @@
+== 謝辞
+
+　この論文は、デバッグを手伝ってくれた多数の人々との会話によって改善されてきた。とくに感謝したいのが Jeff Dutky @<code>{<dutky@wam.umd.edu>}。かれは「デバッグは並列処理可能である」という言い方を提案して、そこから生まれる分析の形成を助けてくれた。Nancy Lebovitz @<code>{<nancyl@universe.digex.net>}は、クロポトキンを引用してワインバーグをまねしたらどうかと示唆を与えてくれた。ほかに有益なコメントをくれた人としては、General Technics リストの Joan Eslinger @<code{<wombat@kilimanjaro.engr.sgi.com>} と Marty Franz @<code>{<marty@net-link.net>}。Glen Vandenburg @<code>{<glv@vanderburg.org>} は貢献者人口の自己選別性が重要だということを指摘してくれたし、多くの開発というのが「見過ごしというバグ」を修正するものだという有益なアイデアをくれた。Daniel Upper @<code>{<upper@peak.org>} は、これについて自然界のアナロジーを提供してくれた。PLUG（フィラデルフィア Linux ユーザグループ）のメンバーたちにも感謝する。かれらはこの論文の初の公開版について、最初のテスト読者になってくれた。Paula Matuszek @<code>{<matusp00@mh.us.sbphrd.com>} はソフトウェア管理の実務についてぼくを啓蒙してくれた。Phil Hudson @<code>{<phil.hudson@iname.com>>} は、ハッカー文化の社会組織構成はそのソフトの構成を反映するものであり、その逆も真だということを思い出させてくれた。最後に、リーヌス・トーヴァルズのコメントは有益だったし、かれがはやいうちから賛同してくれたので、ぼくとしてもやりやすかった。
+
