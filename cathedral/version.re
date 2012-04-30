@@ -1,4 +1,4 @@
-== バージョンと変更履歴
+= バージョンと変更履歴
 　  $Id: cathedral-bazaar.sgml,v 1.40 1998/08/11 20:27:29 esr Exp $
 
 　バージョン1.16: 1997 年 5 月 21 日、Linux Kongress にて発表。
