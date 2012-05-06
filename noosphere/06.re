@@ -37,7 +37,7 @@
 
 　これが示しているのは、もちろん言うまでもなく自明だろうけれど、贈与文化の運用方法は一つじゃないってことだ。ぼくはハッカー文化の歴史について、別のところでまとめたことがある(@<fn>{HH})。それがいまの行動を形成していった方法は、謎なんかじゃない。ハッカーたちは、自分たちの文化を規定するにあたり、自分たちの競合が行われる@<strong>{形式}の集合を利用したわけだ。この論文ではこの先、その形式を検討することにしよう。
 
-//footnote[LW][　ハッカーと海賊ソフト文化との対比がいかに示唆的かを指摘してくれた点で、Michael Funk @<code>{<mwfunk@uncc.campus.mci.net>}には感謝したい。Linus Wallejは、かれらの文化力学についてぼくとは異なる分析をポストしている（かれらを希少性文化として描いている。これは @<strong>{A Comment on `Warez D00dz' Culture} (@<href>{http://www.df.lth.se/~triad/papers/Raymond_D00dz.html, http://www.df.lth.se/~triad/papers/Raymond_D00dz.html}を参照。@<br>{}　この対比は、長続きしないかもしれない。もとクラッカーのAndrej Brandt <andy@pilgrim.cs.net.pl> の見解によると、cracker/warez d00dz 文化は現在しぼみつつあって、いちばん優れた人材やリーダーたちは、オープンソースの世界に取り込まれているという。この視点について独立した証拠としては、「Cult of the Dead Cow」というクラッカー集団が 1999 年 6 月に行った、前例のない行動がある。かれらは、Microsoft Windows のセキュリティを破るためのツールである「Back Orifice 2000」を GPL のもとで公開した。]
+//footnote[LW][　ハッカーと海賊ソフト文化との対比がいかに示唆的かを指摘してくれた点で、Michael Funk @<code>{<mwfunk@uncc.campus.mci.net>}には感謝したい。Linus Wallejは、かれらの文化力学についてぼくとは異なる分析をポストしている（かれらを希少性文化として描いている。これは @<strong>{A Comment on `Warez D00dz' Culture} (@<href>{http://www.df.lth.se/~triad/papers/Raymond_D00dz.html, http://www.df.lth.se/~triad/papers/Raymond_D00dz.html})を参照。@<br>{}　この対比は、長続きしないかもしれない。もとクラッカーのAndrej Brandt <andy@pilgrim.cs.net.pl> の見解によると、cracker/warez d00dz 文化は現在しぼみつつあって、いちばん優れた人材やリーダーたちは、オープンソースの世界に取り込まれているという。この視点について独立した証拠としては、「Cult of the Dead Cow」というクラッカー集団が 1999 年 6 月に行った、前例のない行動がある。かれらは、Microsoft Windows のセキュリティを破るためのツールである「Back Orifice 2000」を GPL のもとで公開した。]
 
 //footnote[HH][ハッカー社会（hackerdom）の歴史については、@<href>{http://earthspace.net/~esr/faqs/hacker-hist.html, ここ}にまとめてみた。これをほんとうにきちんと説明してくれる本は未だに書かれていないし、それを書くのはたぶんぼくではないと思う。]
 
