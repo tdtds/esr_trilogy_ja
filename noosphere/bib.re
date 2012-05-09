@@ -19,11 +19,12 @@
 //}
 
 //bibpaper[MHG][Goldhaber, Michael K.]{
-@<strong>{@<href>{http://www.firstmonday.dk/issues/issue2_4/goldhaber, The Attention Economy and the Net}}
+@<strong>{http://www.firstmonday.dk/issues/issue2_4/goldhaber , The Attention Economy and the Net}
 
 　この論文はバージョン 1.7 のあとで発見した。一目でわかる欠点もある（Goldhaber は、関心というものには経済的な理由づけが適用できないと論じているけれど、この議論はよく読むと成り立たない）けれど、それでも Goldhaber は組織行動における関心集めの役割についておもしろくて鋭いことを言っている。ぼくが論じた名声や仲間内の評判は、かれが言う意味での関心の特殊例として見ると有益。
 //}
 
-//bibpaper[GNU][Free Software Foundation]{　フリーソフトウェア財団 (Free Software Foundation) の主ウェブサイトは、@<href>{http://www.gnu.org/philosophy/motivation.html, こうした研究の結果をまとめた記事}を載せている。本論での引用はそこから抜粋したものだ。
+//bibpaper[GNU][Free Software Foundation]{
+　フリーソフトウェア財団 (Free Software Foundation) の主ウェブサイトは、@<href>{http://www.gnu.org/philosophy/motivation.html, こうした研究の結果をまとめた記事} を載せている。本論での引用はそこから抜粋したものだ。
 //}
 
