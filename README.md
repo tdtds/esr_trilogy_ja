@@ -7,4 +7,4 @@
 
 完成したEPUB & Mobi (for Kindle)ファイルは下記からダウンロードできます。
 
-* http://tdtds.github.com/esr_trilogy_ja/
+* https://tdtds.github.io/esr_trilogy_ja/
